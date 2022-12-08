@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="43cm" height="17cm" viewBox="209 197 854 333" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="210" y="203" width="53.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="210" y="203" width="53.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="236.85" y="223">Tutor</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="242.9" y="336" width="133.05" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="242.9" y="336" width="133.05" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="309.425" y="356">UnderGraduate</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="407.8" y="203" width="73.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="407.8" y="203" width="73.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="444.55" y="223">Student</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="546.7" y="340" width="84.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="546.7" y="340" width="84.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="588.95" y="360">Graduate</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="873.6" y="205" width="92.05" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="873.6" y="205" width="92.05" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="919.625" y="225">Instructor</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="777.5" y="327" width="74.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="777.5" y="327" width="74.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="814.6" y="347">Teacher</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="975.4" y="328" width="86.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="975.4" y="328" width="86.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1018.55" y="348">Professor</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="846.9" y="483" width="147.85" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="846.9" y="483" width="147.85" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="920.825" y="503">TeacherAssistant</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="919.625,252.23 919.625,291 1018.55,291 1018.55,328 "/>
+    <polygon style="fill: #ffffff" points="927.625,252.23 919.625,236.23 911.625,252.23 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="927.625,252.23 919.625,236.23 911.625,252.23 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="919.625,252.23 919.625,291 814.6,291 814.6,327 "/>
+    <polygon style="fill: #ffffff" points="927.625,252.23 919.625,236.23 911.625,252.23 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="927.625,252.23 919.625,236.23 911.625,252.23 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="588.95,386.236 588.95,498 846.9,498 846.9,497 "/>
+    <polygon style="fill: #ffffff" points="596.95,386.236 588.95,370.236 580.95,386.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="596.95,386.236 588.95,370.236 580.95,386.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="444.55,249.236 444.55,292.996 588.95,292.996 588.95,338.993 "/>
+    <polygon style="fill: #ffffff" points="452.55,249.236 444.55,233.236 436.55,249.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="452.55,249.236 444.55,233.236 436.55,249.236 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="236.85,250.243 236.85,294.004 588.95,294.004 588.95,340 "/>
+    <polygon style="fill: #ffffff" points="244.85,250.243 236.85,234.243 228.85,250.243 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="244.85,250.243 236.85,234.243 228.85,250.243 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="236.85,249.236 236.85,294 309.425,294 309.425,335.002 "/>
+    <polygon style="fill: #ffffff" points="244.85,249.236 236.85,233.236 228.85,249.236 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="244.85,249.236 236.85,233.236 228.85,249.236 "/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="824.792" y1="355.968" x2="910.633" y2="482.032"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="1008.2" y1="356.94" x2="920.825" y2="483"/>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="865" y="414">
+    <tspan x="865" y="414">&lt;assists</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="974" y="418">
+    <tspan x="974" y="418">&lt;assists</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1041" y="375">
+    <tspan x="1041" y="375">1</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="798" y="370">
+    <tspan x="798" y="370">1</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="974" y="479">
+    <tspan x="974" y="479">0..4</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="845" y="476">
+    <tspan x="845" y="476">0..1</tspan>
+  </text>
+  <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="314" y="210">
+    <tspan x="314" y="210">Tutors</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="389.564,217 330,217 330,217 263.7,217 "/>
+    <polygon style="fill: #ffffff" points="389.564,225 405.564,217 389.564,209 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="389.564,225 405.564,217 389.564,209 "/>
+  </g>
+</svg>

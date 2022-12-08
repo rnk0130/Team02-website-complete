@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(24, 21, 21);
+}
+
+.p{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.page-title{
+    line-height: 100px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    height: 120px;
+    width: 800px;
+    font-size:50px;
+    color: rgb(63, 60, 119);
+    border-color: blue;
+    background-color: rgb(0, 0, 0);
+    border-style: solid;
+}
+
+.resourcesheader{
+    display: block;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    height: 600px;
+    width: 1900px;
+    font-size:50px;
+    color: rgb(63, 60, 119);
+    border-color: blue;
+    background-color: rgb(0, 0, 0);
+    border-style: solid;
+
+}
